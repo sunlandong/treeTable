@@ -1,0 +1,22 @@
+{
+  "name": "vue-table-plus",
+  "version": "1.0.0",
+  "description": "table components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunlandong/treeTable.git"
+  },
+  "author": "sunlandong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunlandong/treeTable/issues"
+  },
+  "homepage": "https://github.com/sunlandong/treeTable#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
